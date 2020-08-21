@@ -11,7 +11,7 @@ chineres ocr from picture, 中英文本检测与文字识别，dense-ctc，dbnet
 
 # demo
 * data/test/demo.png
-![image](https://github.com/zhangxiao339/chineseocr-onnx/blob/master/data/test/demo.png)
+![image](https://github.com/zhangxiao339/chineseocr-onnx/raw/master/data/test/demo.png)
 * result
     > line: 1, A.上升过程中克服重力做的功大于下降过程中重力做的功, 0.9922532439231873<br>
     line: 2, B.上升过程中克服重力做的功等于下降过程中重力做的功, 0.9885271787643433<br>
