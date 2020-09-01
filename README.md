@@ -24,4 +24,4 @@ chineres ocr from picture, 中英文本检测与文字识别，dense-ctc，dbnet
     line: 6, 做功的平均功率, 0.9874854683876038<br>
 * total time on cpu(mac book): 1.12s
 # 联系方式
-* emal：sinceresky@foxmail.com, 可获取支持
+* email：sinceresky@foxmail.com, 可获取支持
