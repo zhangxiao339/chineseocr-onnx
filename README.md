@@ -12,7 +12,7 @@ chineres ocr from picture, 中英文本检测与文字识别，dense-ctc，dbnet
 * unet: comming soon
 
 # demo
-* online demo: http://119.29.166.38:8787/ocr?type=print_ocr
+* online demo: 邮箱联系获取在线demo
 * data/test/demo.png
 ![image](./data/test/demo.png)
 * result
