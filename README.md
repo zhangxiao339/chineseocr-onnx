@@ -7,7 +7,7 @@ chineres ocr from picture, 中英文本检测与文字识别，dense-ctc，dbnet
 
 # train
 * text rec: https://github.com/zhangxiao339/DenseCTC-Keras
-* dbnet: coming soon
+* dbnet: done
 * pse: todo
 * unet: comming soon
 
